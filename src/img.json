@@ -1,0 +1,78 @@
+[
+    {     
+      "name": "egg",
+      "category": "breakfast",
+      "path": "./img/breakfast/egg.jpg"
+    },
+    {     
+      "name": "oatmeal",
+      "category": "breakfast",
+      "path": "./img/breakfast/oatmeal.jpg"
+    },
+    {     
+      "name": "pancake",
+      "category": "breakfast",
+      "path": "./img/breakfast/pancake.jpg"
+    },
+    {     
+      "name": "waffle",
+      "category": "breakfast",
+      "path": "./img/breakfast/waffle.jpg"
+    },
+    {     
+      "name": "chickenPea",
+      "category": "lunch",
+      "path": "./img/lunch/chickenPea.jpg"
+    },
+    {     
+      "name": "ramen",
+      "category": "lunch",
+      "path": "./img/lunch/ramen.jpg"
+    },
+    {     
+      "name": "spaghetti",
+      "category": "lunch",
+      "path": "./img/lunch/spaghetti.jpg"
+    },
+    {     
+      "name": "salmon",
+      "category": "dinner",
+      "path": "./img/dinner/salmon.jpg"
+    },
+    {     
+      "name": "shrimp",
+      "category": "dinner",
+      "path": "./img/dinner/shrimp.jpg"
+    },
+    {     
+      "name": "steak",
+      "category": "dinner",
+      "path": "./img/dinner/steak.jpg"
+    },
+    {     
+      "name": "appleJ",
+      "category": "juice",
+      "path": "./img/juice/appleJ.jpg"
+    },
+    {     
+      "name": "celeryJ",
+      "category": "juice",
+      "path": "./img/juice/celeryJ.jpg"
+    },
+    {     
+      "name": "mangoJ",
+      "category": "juice",
+      "path": "./img/juice/mangoJ.jpg"
+    },
+    {     
+      "name": "orangeJ",
+      "category": "juice",
+      "path": "./img/juice/orangeJ.jpg"
+    },
+    {     
+      "name": "pineappleJ",
+      "category": "juice",
+      "path": "./img/juice/pineappleJ.jpg"
+    }
+
+]

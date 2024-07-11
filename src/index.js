@@ -1,12 +1,12 @@
 import "./style.css";
-import Interior from "./interior.jpg";
-const content = document.querySelector(".content");
-console.log("hi");
-function addBackground() {
-  const background = new Image();
-  background.src = Interior;
+import { renderHomePage } from "./renderHome";
+import { renderMenuPage } from "./renderMenu";
+import { renderAboutPage } from "./renderAbout";
 
-  content.appendChild(background);
-  return;
-}
-addBackground();
+const homeBtn = document.querySelector(".homeBtn");
+const menuBtn = document.querySelector(".menuBtn");
+const aboutBtn = document.querySelector(".aboutBtn");
+renderHomePage();
+homeBtn.addEventListener("click", renderHomePage);
+menuBtn.addEventListener("click", renderMenuPage);
+aboutBtn.addEventListener("click", renderAboutPage);

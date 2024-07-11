@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Margarine&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
 * {
   margin: 0;
+  box-sizing: border-box;
 }
 body {
   font-size: 1.25rem;
@@ -29,8 +31,12 @@ header {
   border: none;
   font: inherit;
   font-size: 1.25rem;
-  background-color: #e4a76d;
+  background-color: #f2b880;
   color: #372549;
+  box-shadow: 0 0 10px 10px #f6af6d;
+}
+.nav-bar button:active {
+  background-color: red;
 }
 .content {
   height: 80%;
@@ -38,11 +44,60 @@ header {
   align-items: center;
   justify-content: center;
 }
-.content img {
-  max-height: 100%;
-  border-radius: 1rem;
+.content .home {
+  position: relative;
+  background: url("interior.jpg");
+  height: 100%;
+  width: 90%;
+  border-radius: 4px;
 }
-
+.content .textArea {
+  font-family: "Merriweather", serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.2em;
+  line-height: 1.6em;
+  font-weight: 900;
+  font-style: normal;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 20px 100px;
+  color: #f2b880;
+  background-color: #1a14239c;
+  width: 100%;
+  height: fit-content;
+}
+/* Menu */
+.menu {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.menuItem {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 100%;
+  width: 50px;
+  gap: 5px;
+  border-radius: 3px;
+}
+.menuItem > * {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  border-radius: 3px;
+  opacity: 0.8;
+}
+.menuItem > *:hover {
+  transform: scale(1.2);
+  transition: all 300ms;
+  z-index: 1;
+  opacity: 1;
+}
 .footer {
   color: #1a1423;
   display: flex;
@@ -50,6 +105,7 @@ header {
   align-items: center;
   height: 7%;
   background-color: #f2b880;
+  white-space: pre;
 }
 .footer a {
   text-decoration: none;
