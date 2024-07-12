@@ -12,6 +12,7 @@ export function createCard(img) {
       parent = document.querySelector(".juice");
     }
     itemDiv.style.background = `center/ cover no-repeat url("${item.path}")`;
+    itemDiv.classList.add("menuCard");
     parent.appendChild(itemDiv);
   });
 }

@@ -71,32 +71,40 @@ header {
 .menu {
   width: 80%;
   margin: auto;
-  display: flex;
-  justify-content: flex-start;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 20px;
 }
 .menuItem {
-  background-color: black;
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1;
-  height: 100%;
-  width: 50px;
-  gap: 5px;
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(4, 100px);
+  gap: 10px;
   border-radius: 3px;
 }
-.menuItem > * {
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1;
-  border-radius: 3px;
-  opacity: 0.8;
+.menuCard {
+  aspect-ratio: 1;
+  grid-column: span 2;
+  clip-path: path(
+    "M 20 80 C 40 60 60 40 80 20 C 100 0 100 0 120 20 C 140 40 160 60 180 80 C 200 100 200 100 180 120 C 160 140 140 160 120 180 C 100 200 100 200 80 180 C 60 160 40 140 20 120 C 0 100 0 100 20 80 Z"
+  );
+  transition: all 500ms;
+  transition-property: clip-path, filter;
+  overflow: clip;
+}
+.menuCard:nth-child(2) {
+  grid-column: 2 / span 2;
+}
+.menuCard:nth-child(4) {
+  grid-column: 2 / span 2;
 }
 .menuItem > *:hover {
-  transform: scale(1.2);
-  transition: all 300ms;
-  z-index: 1;
-  opacity: 1;
+  filter: grayscale(0) saturate(1.2) brightness(1.1);
+  clip-path: path(
+    "M 0 0 C 0 0 0 0 0 0 C 100 0 100 0 200 0 C 200 50 200 50 200 100 C 200 100 200 100 200 120 C 200 200 200 200 200 200 C 0 200 100 200 0 200 C 0 150 0 150 0 100 C 0 50 0 50 0 0 Z"
+  );
+  z-index: 10;
+  border-radius: 10px;
 }
 .footer {
   color: #1a1423;

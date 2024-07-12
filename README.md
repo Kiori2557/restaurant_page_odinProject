@@ -10,6 +10,8 @@ oatmeal Photo by <a href="https://unsplash.com/@epicantus?utm_content=creditCopy
 
 pancake Photo by <a href="https://unsplash.com/@calumlewis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Calum Lewis</a> on <a href="https://unsplash.com/photos/blue-and-white-ceramic-plate-with-pancakes-8Nc_oQsc2qQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
+croissant Photo by <a href="https://unsplash.com/@kjrai?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kavita Joshi Rai</a> on <a href="https://unsplash.com/photos/croissant-on-top-of-stainless-steel-tray-lE5O9DktAQY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 orangeJuice Photo by <a href="https://unsplash.com/@abhishek_hajare?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">ABHISHEK HAJARE</a> on <a href="https://unsplash.com/photos/orange-juice-in-clear-drinking-glass-kkrXVKK-jhg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 celeryJuice Photo by <a href="https://unsplash.com/@maddibazzocco?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Maddi Bazzocco</a> on <a href="https://unsplash.com/photos/clear-glass-pitcher-beside-clear-rocks-glass-gaqfzS7YLrc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -26,8 +28,16 @@ steak Photo by <a href="https://unsplash.com/@alexmunsell?utm_content=creditCopy
 
 shrimp Photo by <a href="https://unsplash.com/@shemanska?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Maria Labanda</a> on <a href="https://unsplash.com/photos/cooked-shrimp-platter-hEKN_m0qGMA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
+sushi Photo by <a href="https://unsplash.com/@derekduran?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Derek Duran</a> on <a href="https://unsplash.com/photos/sushi-on-white-ceramic-plate-Jz4QMhLvGgw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+meatball Photo by <a href="https://unsplash.com/@emilianovittoriosi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Emiliano Vittoriosi</a> on <a href="https://unsplash.com/photos/meat-balls-on-oval-white-plate-OFismyezPnY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 chickenpea Photo by <a href="https://unsplash.com/@marius_dragne?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dragne Marius</a> on <a href="https://unsplash.com/photos/steamed-rice-and-meat-dish-EdzsUFqHbaY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 spaghetti Photo by <a href="https://unsplash.com/@grissphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Max Griss</a> on <a href="https://unsplash.com/photos/pasta-dish-on-brown-ceramic-bowl-otLqpb9LK70?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ramen Photo by <a href="https://unsplash.com/@crystalsjo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Crystal Jo</a> on <a href="https://unsplash.com/photos/ramen-dish-on-brown-ceramic-bowl-TWTxHN2QIGc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+pizza Photo by <a href="https://unsplash.com/@tents_and_tread?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thomas Tucker</a> on <a href="https://unsplash.com/photos/top-view-photo-of-pepperoni-pizza-beside-brown-cup-filled-with-yellow-liquid-and-ice-cubes-MNtag_eXMKw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+chickenWing Photo by <a href="https://unsplash.com/@phambot?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Peter Pham</a> on <a href="https://unsplash.com/photos/cooked-food-on-black-tray-v5yVy3IhSRU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
