@@ -1,102 +1,122 @@
 [
     {     
-      "name": "egg",
+      "name": "Sunny up Sandwich",
       "category": "breakfast",
-      "path": "../img/breakfast/egg.jpg"
+      "path": "../img/breakfast/egg.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@miracletwentyone?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Joseph Gonzalez</a> on <a href='https://unsplash.com/photos/sunny-side-up-egg-with-bread-beside-fork-QaGDmf5tMiE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "oatmeal",
+      "name": "Oatmeal",
       "category": "breakfast",
-      "path": "../img/breakfast/oatmeal.jpg"
+      "path": "../img/breakfast/oatmeal.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@epicantus?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Daria Nepriakhina 🇺🇦</a> on <a href='https://unsplash.com/photos/oatmeal-with-milk--0gya0UbwPs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "pancake",
+      "name": "Pancake",
       "category": "breakfast",
-      "path": "../img/breakfast/pancake.jpg"
+      "path": "../img/breakfast/pancake.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@calumlewis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Calum Lewis</a> on <a href='https://unsplash.com/photos/blue-and-white-ceramic-plate-with-pancakes-8Nc_oQsc2qQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "waffle",
+      "name": "Fruity Waffle",
       "category": "breakfast",
-      "path": "../img/breakfast/waffle.jpg"
+      "path": "../img/breakfast/waffle.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@megsavyy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Megan Savoie</a> on <a href='https://unsplash.com/photos/photo-of-waffles-beside-bowls-of-strawberries-banana-and-black-berries-MpJ9SFp2lM8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "croissant",
+      "name": "Croissant",
       "category": "breakfast",
-      "path": "../img/breakfast/croissant.jpg"
+      "path": "../img/breakfast/croissant.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@kjrai?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Kavita Joshi Rai</a> on <a href='https://unsplash.com/photos/croissant-on-top-of-stainless-steel-tray-lE5O9DktAQY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "chickenPea",
+      "name": "Rice with ChickenPea",
       "category": "lunch",
-      "path": "../img/lunch/chickenPea.jpg"
+      "path": "../img/lunch/chickenPea.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@marius_dragne?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Dragne Marius</a> on <a href='https://unsplash.com/photos/steamed-rice-and-meat-dish-EdzsUFqHbaY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "ramen",
+      "name": "Ramen",
       "category": "lunch",
-      "path": "../img/lunch/ramen.jpg"
+      "path": "../img/lunch/ramen.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@crystalsjo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Crystal Jo</a> on <a href='https://unsplash.com/photos/ramen-dish-on-brown-ceramic-bowl-TWTxHN2QIGc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "spaghetti",
+      "name": "Spaghetti",
       "category": "lunch",
-      "path": "../img/lunch/spaghetti.jpg"
+      "path": "../img/lunch/spaghetti.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@grissphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Max Griss</a> on <a href='https://unsplash.com/photos/pasta-dish-on-brown-ceramic-bowl-otLqpb9LK70?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "pizza",
+      "name": "Pizza",
       "category": "lunch",
-      "path": "../img/lunch/pizza.jpg"
+      "path": "../img/lunch/pizza.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@tents_and_tread?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Thomas Tucker</a> on <a href='https://unsplash.com/photos/top-view-photo-of-pepperoni-pizza-beside-brown-cup-filled-with-yellow-liquid-and-ice-cubes-MNtag_eXMKw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "chickenWing",
+      "name": "Chicken Wing",
       "category": "lunch",
-      "path": "../img/lunch/chickenWing.jpg"
+      "path": "../img/lunch/chickenWing.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@phambot?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Peter Pham</a> on <a href='https://unsplash.com/photos/cooked-food-on-black-tray-v5yVy3IhSRU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "salmon",
+      "name": "Salmon",
       "category": "dinner",
-      "path": "../img/dinner/salmon.jpg"
+      "path": "../img/dinner/salmon.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@simplethemes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Casey Lee</a> on <a href='https://unsplash.com/photos/cooked-food-awj7sRviVXo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "shrimp",
+      "name": "Shrimp",
       "category": "dinner",
-      "path": "../img/dinner/shrimp.jpg"
+      "path": "../img/dinner/shrimp.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@shemanska?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Maria Labanda</a> on <a href='https://unsplash.com/photos/cooked-shrimp-platter-hEKN_m0qGMA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "steak",
+      "name": "Steak",
       "category": "dinner",
-      "path": "../img/dinner/steak.jpg"
+      "path": "../img/dinner/steak.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@alexmunsell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Alex Munsell</a> on <a href='https://unsplash.com/photos/close-up-photo-of-cooked-food-on-square-white-plate-auIbTAcSH6E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "meatball",
+      "name": "Meatball",
       "category": "dinner",
-      "path": "../img/dinner/meatball.jpg"
+      "path": "../img/dinner/meatball.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@emilianovittoriosi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Emiliano Vittoriosi</a> on <a href='https://unsplash.com/photos/meat-balls-on-oval-white-plate-OFismyezPnY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "sushi",
+      "name": "Sushi",
       "category": "dinner",
-      "path": "../img/dinner/sushi.jpg"
+      "path": "../img/dinner/sushi.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@derekduran?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Derek Duran</a> on <a href='https://unsplash.com/photos/sushi-on-white-ceramic-plate-Jz4QMhLvGgw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "appleJ",
+      "name": "Apple Juice",
       "category": "juice",
-      "path": "../img/juice/appleJ.jpg"
+      "path": "../img/juice/appleJ.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@alichoubin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Ali Choubin</a> on <a href='https://unsplash.com/photos/person-holding-green-fruit-shake-9hNdI1kt8Ks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "celeryJ",
+      "name": "Celery Juice",
       "category": "juice",
-      "path": "../img/juice/celeryJ.jpg"
+      "path": "../img/juice/celeryJ.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@maddibazzocco?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Maddi Bazzocco</a> on <a href='https://unsplash.com/photos/clear-glass-pitcher-beside-clear-rocks-glass-gaqfzS7YLrc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "mangoJ",
+      "name": "Mango Juice",
       "category": "juice",
-      "path": "../img/juice/mangoJ.jpg"
+      "path": "../img/juice/mangoJ.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@samhojati?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Sam Hojati</a> on <a href='https://unsplash.com/photos/mango-and-lemon-juice-lw8GflbJwLc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "orangeJ",
+      "name": "Orange Juice",
       "category": "juice",
-      "path": "../img/juice/orangeJ.jpg"
+      "path": "../img/juice/orangeJ.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@abhishek_hajare?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>ABHISHEK HAJARE</a> on <a href='https://unsplash.com/photos/orange-juice-in-clear-drinking-glass-kkrXVKK-jhg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     },
     {     
-      "name": "pineappleJ",
+      "name": "Pineapple Juice",
       "category": "juice",
-      "path": "../img/juice/pineappleJ.jpg"
+      "path": "../img/juice/pineappleJ.jpg",
+      "credit":"Photo by <a href='https://unsplash.com/@yesmorecontent?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>YesMore Content</a> on <a href='https://unsplash.com/photos/clear-drinking-glass-with-yellow-liquid-yB0Bm2QqChQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
     }
 ]

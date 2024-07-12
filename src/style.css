@@ -75,7 +75,16 @@ header {
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
 }
+.label {
+  position: absolute;
+  width: fit-content;
+  max-width: 150px;
+  text-wrap: wrap;
+  color: #1a1423;
+  margin: auto;
+}
 .menuItem {
+  position: relative;
   display: grid;
   grid-template-columns: repeat(3, 100px);
   grid-template-rows: repeat(4, 100px);
@@ -83,6 +92,7 @@ header {
   border-radius: 3px;
 }
 .menuCard {
+  position: relative;
   aspect-ratio: 1;
   grid-column: span 2;
   clip-path: path(
@@ -98,7 +108,29 @@ header {
 .menuCard:nth-child(4) {
   grid-column: 2 / span 2;
 }
-.menuItem > *:hover {
+.menuCard:nth-child(6) {
+  grid-column: 2 / span 2;
+}
+.dishLabel {
+  margin: auto;
+  text-align: center;
+  color: #372549;
+  background-color: #f2b780a9;
+}
+.credit {
+  font-size: 11px;
+  display: block;
+  position: absolute;
+  top: 180px;
+  color: #372549;
+  background-color: #f2b780a9;
+  text-align: end;
+}
+.credit > a {
+  text-decoration: none;
+  color: #372549;
+}
+.menuCard:hover {
   filter: grayscale(0) saturate(1.2) brightness(1.1);
   clip-path: path(
     "M 0 0 C 0 0 0 0 0 0 C 100 0 100 0 200 0 C 200 50 200 50 200 100 C 200 100 200 100 200 120 C 200 200 200 200 200 200 C 0 200 100 200 0 200 C 0 150 0 150 0 100 C 0 50 0 50 0 0 Z"
