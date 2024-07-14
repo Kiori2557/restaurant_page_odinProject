@@ -194,16 +194,11 @@ header {
   top: 200px;
   left: 500px;
 }
-.footer {
+footer {
   color: #1a1423;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 7%;
   background-color: #f2b880;
-  white-space: pre;
-}
-.footer a {
-  text-decoration: none;
-  color: #1a1423;
 }
