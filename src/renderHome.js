@@ -1,10 +1,13 @@
+import { setActiveButton } from "./setActiveButton";
 export function renderHomePage() {
+  const activeBtn = document.querySelector(".homeBtn");
   const content = document.querySelector(".content");
   const background = document.createElement("div");
   const header = document.createElement("div");
   const info = document.createElement("div");
   const credit = document.createElement("div");
   content.innerHTML = "";
+  setActiveButton(activeBtn);
   content.classList.remove("menu");
   background.classList.add("home");
   header.classList.add("textArea");

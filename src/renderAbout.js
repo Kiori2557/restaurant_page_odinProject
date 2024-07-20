@@ -1,9 +1,12 @@
+import { setActiveButton } from "./setActiveButton";
 export function renderAboutPage() {
+  const activeBtn = document.querySelector(".aboutBtn");
   const content = document.querySelector(".content");
   const background = document.createElement("div");
   const textArea = document.createElement("div");
   const aboutUsBody = document.createElement("div");
   content.innerHTML = "";
+  setActiveButton(activeBtn);
   content.classList.remove("menu");
   background.classList.add("aboutUs");
   textArea.classList.add("textArea");

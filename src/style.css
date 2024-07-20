@@ -42,6 +42,13 @@ header {
 .nav-bar button:active {
   background-color: #f8b77a;
 }
+.nav-bar .active {
+  color: #f2b880;
+  background-color: #372549;
+}
+.nav-bar .active:hover {
+  background-color: #5d407e;
+}
 .content {
   position: relative;
   height: 80%;

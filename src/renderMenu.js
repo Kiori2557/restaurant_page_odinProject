@@ -1,6 +1,8 @@
 import { createCard } from "./createCard";
+import { setActiveButton } from "./setActiveButton";
 import imgObj from "./img.json";
 export function renderMenuPage() {
+  const activeBtn = document.querySelector(".menuBtn");
   const content = document.querySelector(".content");
   const breakfastParentDiv = document.createElement("div");
   const lunchParentDiv = document.createElement("div");
@@ -11,6 +13,7 @@ export function renderMenuPage() {
   const lunchLabel = document.createElement("div");
   const dinnerLabel = document.createElement("div");
   content.innerHTML = "";
+  setActiveButton(activeBtn);
   content.classList.add("menu");
 
   juiceLabel.textContent = `Juice Menu`;
